@@ -3,3 +3,4 @@ On a new line, please add your name and the issue # that you contributed to when
 <li>DanV, created a graphic template for new TikTok filter, Issue #18
 <li>DanV, wrote a list of prompts for new TikTok filter, Issue #19
 <li>DanV, consolidated Getting Started KB guides from 5 to 3, Issue #17
+<li>Trish, added to the list of prompts for new TikTok filter, Issue #19  
