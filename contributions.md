@@ -5,3 +5,4 @@ On a new line, please add your name and the issue # that you contributed to when
 <li>DanV, consolidated Getting Started KB guides from 5 to 3, Issue #17
 <li>Trish, added to the list of prompts for new TikTok filter, Issue #19  
 <li>DanV, created new products for the internal merch store, Issue #24
+<li>Louie, selected <a href="https://github.com/mmistakes/so-simple-theme">this theme</a> for our Github page, Issue #26
