@@ -21,7 +21,7 @@ title: "Order Desk Hacktoberfest 2022 Festivities"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://order-desk.github.io/hacktoberfest2022/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/OD-Logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
