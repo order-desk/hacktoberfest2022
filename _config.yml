@@ -111,3 +111,6 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Hacktober
+    url: hacktoberfest.com
+    icon: "/images/Hactober Logo.png"
