@@ -106,11 +106,11 @@ footer_links:
     url: https://twitter.com/orderdeskrules
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/username
+    url: https://instagram.com/orderdeskrules
     icon: fab fa-instagram
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
   - title: Hacktober
-    url: hacktoberfest.com
+    url: https://hacktoberfest.com
     icon: "/images/Hactober Logo.png"
