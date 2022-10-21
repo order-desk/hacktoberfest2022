@@ -102,6 +102,12 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/username
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/username
+    icon: fab fa-instagram
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
