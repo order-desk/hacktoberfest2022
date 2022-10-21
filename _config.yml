@@ -17,8 +17,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Order Desk Hacktoberfest 2022 Festivities"
-description: "It really is the best."
+title: Hacktoberfest 2022 Blog"
+description: "Otto wishes you a spooky Hacktoberfest '22"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://order-desk.github.io/hacktoberfest2022/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/OD-Logo.png"
@@ -38,7 +38,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "orderdeskrules"
 
 # Liquid
 liquid:
@@ -94,7 +94,7 @@ author:
   name: "Order Desk"
   picture:
   email:
-  twitter:
+  twitter: orderdeskrules
   links:
     - title:
       url:
@@ -103,7 +103,7 @@ author:
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/username
+    url: https://twitter.com/orderdeskrules
     icon: fab fa-twitter-square
   - title: Instagram
     url: https://instagram.com/username
