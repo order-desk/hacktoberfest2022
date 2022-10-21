@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: Hacktoberfest 2022 Blog"
+title: "Hacktoberfest 2022 Blog"
 description: "Otto wishes you a spooky Hacktoberfest '22"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://order-desk.github.io/hacktoberfest2022/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
