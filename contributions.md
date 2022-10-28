@@ -8,3 +8,4 @@ On a new line, please add your name and the issue # that you contributed to when
 <li>Louie, selected <a href="https://github.com/mmistakes/so-simple-theme">this theme</a> for our Github page, Issue #26
 <li>Trish, wrote blog on Shopify and ShipBob, Issue #5
 <li>Louie and Ekin added the Order Desk logo to the site, Issue #14
+<li>Trish, wrote blog on scaling pet business, Issue #6
