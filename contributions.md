@@ -9,3 +9,4 @@ On a new line, please add your name and the issue # that you contributed to when
 <li>Trish, wrote blog on Shopify and ShipBob, Issue #5
 <li>Louie and Ekin added the Order Desk logo to the site, Issue #14
 <li>Trish, wrote blog on scaling pet business, Issue #6
+<li> Louie did a copy edit of the Shopify/ShipBob blog post, Issue #9
